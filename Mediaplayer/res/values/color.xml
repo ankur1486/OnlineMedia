@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="AUTUMN_TOP">#f9ce13</color>
+    <color name="AUTUMN_BOTTOM">#f97f13</color>
+    <color name="WINTER_TOP">#29d9ef</color>
+    <color name="WINTER_BOTTOM">#0f287f</color>
+    <color name="PINK_PANTHER_TOP">#fb59c8</color>
+    <color name="PINK_PANTHER_BOTTOM">#811072</color>
+    <color name="SPRING_TOP">#8aec2a</color>
+    <color name="SPRING_BOTTOM">#13812a</color>
+    <color name="SUMMER_TOP">#e8d719</color>
+    <color name="SUMMER_BOTTOM">#145a0e</color>
+    <color name="OCEAN_DEPTHS_TOP">#1490e5</color>
+    <color name="OCEAN_DEPTHS_BOTTOM">#010506</color>
+    <color name="DARK_KNIGHT_TOP">#222222</color>
+    <color name="DARK_KNIGHT_BOTTOM">#000000</color>
+
+</resources>
